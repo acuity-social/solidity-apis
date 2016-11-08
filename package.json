@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/link-blockchain/solidity-apis.git"
   },
-  "author": "",
+  "author": "Jonathan Brown <jbrown@bluedroplet.com>",
   "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/link-blockchain/solidity-apis/issues"
   },
-  "homepage": "https://github.com/link-blockchain/solidity-apis#readme"
+  "homepage": "https://github.com/link-blockchain/solidity-apis#readme",
+  "devDependencies": {
+    "@digix/doxity": "^0.1.4"
+  }
 }
